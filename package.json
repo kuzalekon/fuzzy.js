@@ -6,6 +6,10 @@
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^12.7.1",
+    "@types/snowball-stemmers": "^0.6.0",
     "typescript": "^3.5.3"
+  },
+  "dependencies": {
+    "snowball-stemmers": "^0.6.0"
   }
 }
