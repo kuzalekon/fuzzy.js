@@ -1,0 +1,11 @@
+{
+  "name": "fuzzy-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kuznetsov Aleksey <kyznecov.alexey@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^12.7.1",
+    "typescript": "^3.5.3"
+  }
+}
